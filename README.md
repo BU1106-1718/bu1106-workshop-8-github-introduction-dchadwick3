@@ -61,4 +61,4 @@ What are the three _Most Wanted Pages_ are in our KMS (BU1106 Wiki), i.e. the pa
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-**Answer:** Replace this text with your answer.
+**Answer:** Three Orphaned Pages are How to harvard reference, Jgregory-haigh & Statistics.
